@@ -1,0 +1,5 @@
+﻿  pipeline.cpp
+d:\programs\dropboxfiles\dropbox\programming\c++\cs3370 c++ software development\assn7-pipeline\assn7-pipeline\pipeline.h(80): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+cl : Command line warning D9028: minimal rebuild failure, reverting to normal build
+  Assn7-Pipeline.vcxproj -> D:\Programs\DropBoxFiles\Dropbox\Programming\C++\CS3370 C++ Software Development\Assn7-Pipeline\Debug\Assn7-Pipeline.exe
+  Assn7-Pipeline.vcxproj -> D:\Programs\DropBoxFiles\Dropbox\Programming\C++\CS3370 C++ Software Development\Assn7-Pipeline\Debug\Assn7-Pipeline.pdb (Partial PDB)
